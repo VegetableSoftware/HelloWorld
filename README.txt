@@ -5,3 +5,4 @@ Here is branch dev. ----vegetable
 Feature1 sample. ----vegetable
 Ready to push. ----vegetable
 Test of dependance. ----vegetable
+Test of merge. ----vegetable
